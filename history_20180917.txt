@@ -1,0 +1,209 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  gcc --ver
+    4  gcc --help
+    5  gcc --version
+    6  exit
+    7  ls
+    8  nano test.txt
+    9  vi test.txt
+   10  ls
+   11  --help
+   12  -help
+   13  -h
+   14  ls -r
+   15  ls --help
+   16  ls -s
+   17  touch test
+   18  ls -s
+   19  rm test
+   20  ls -s
+   21  nano text.txt
+   22  ls
+   23  nano test.txt
+   24  ls
+   25  rm test.txt
+   26  ls
+   27  exit
+   28  date
+   29  .
+   30  ..
+   31  echo 3+4
+   32  clear
+   33  a=11
+   34  a
+   35  $a
+   36  echo a
+   37  echo $a
+   38  echo $A
+   39  A=22
+   40  echo $A
+   41  echo $a
+   42  echo $A
+   43  echo $a+$A
+   44  echo "$a+$A"
+   45  echo =$a+$A
+   46  B = a+A
+   47  B=a+A
+   48  echo $B
+   49  echo $B
+   50  echo &B
+   51  echo %A
+   52  echo &a
+   53  man
+   54  man bash
+   55  man variables
+   56  echo $($a+$A)
+   57  echo $('a+A')
+   58  echo $(a+A)
+   59  echo $($a+A)
+   60  echo $(&a+A)
+   61  echo $(%a+A)
+   62  echo $((a+A))
+   63  man bash
+   64  echo ((10+15))
+   65  echo $((10+15))
+   66  man bash
+   67  man echo
+   68  printf 
+   69  echo --version
+   70  echo [--version]
+   71  man echo
+   72  echo--version
+   73  echo '--version'
+   74  echo --version
+   75  echo -e test
+   76  echo --e test
+   77  echo -e test
+   78  echo -e test -- version
+   79  echo -e test --version
+   80  echo --version
+   81  echo --help
+   82  echo [--help]
+   83  echo [[--help]]
+   84  bin/echo
+   85  cal
+   86  man cal
+   87  cal -m 11
+   88  cal 2012-1
+   89  cal +1
+   90  man cal
+   91  man -2
+   92  cal -2
+   93  cal -3
+   94  cal -2
+   95  cal -3
+   96  cal -6
+   97  cal -1
+   98  cal -3 -w
+   99  cal -w -3
+  100  man cal
+  101  cal -B2
+  102  cal -B1
+  103  cal -B1 -A1
+  104  cal  -A2
+  105  cal  -A3
+  106  cal  -A1
+  107  info
+  108  echo $
+  109  echo $0
+  110  cal 1
+  111  echo $0
+  112  echo $1
+  113  echo $2
+  114  echo $0
+  115  man bash
+  116  $HOME
+  117  $PATH
+  118  man dash
+  119  man ksh
+  120  man chs
+  121  man dash
+  122  cd ~
+  123  cd root/
+  124  cd ..
+  125  cd..
+  126  cd ..
+  127  ls
+  128  cd ..
+  129  cd $
+  130  cd $home
+  131  cd /$
+  132  ls
+  133  ls /
+  134  nano 01.txt
+  135  ls -s
+  136  ls  / -s
+  137  ls  / -h
+  138  man ls
+  139  ls -lh
+  140  ls -l
+  141  ls / -l
+  142  ls / -lh
+  143  ls / -l
+  144  ls / -lhc
+  145  pwd
+  146  man pwd
+  147  ls /lost+found
+  148  cd /
+  149  ls /lost+found
+  150  cd lost+found
+  151  cd $home
+  152  ls /home
+  153  ls /home -r
+  154  ped
+  155  b
+  156  p
+  157  zman zip
+  158  man zip
+  159  fdisk --help
+  160  man pr
+  161  pr
+  162  man top
+  163  top
+  164  exit
+  165  ls /ls -l
+  166  ls -l
+  167  ls -lh
+  168  ls Desktop
+  169  ls doc
+  170  ls Documents/MATLAB/SupportPackages/
+  171  ls Documents/MATLAB/SupportPackages/R2017b/
+  172  ls Documents/MATLAB/SupportPackages/R2017b/ -lh
+  173  ls / -lh
+  174  tree
+  175  tracepath
+  176  tracepath gmail.com
+  177  dig gmail.com
+  178  uname
+  179  df
+  180  man df
+  181  ls /dev
+  182  ls /dev -l
+  183  ls /dev -lh
+  184  df
+  185  df -h
+  186  du
+  187  du -h
+  188  du -hs
+  189  man du
+  190  free
+  191  free -h
+  192  lsb_release 
+  193  lsb_release -a
+  194  firefox
+  195  exit
+  196  echo $0
+  197  whoami
+  198  who
+  199  whoami
+  200  who
+  201  pwd
+  202  man pwd
+  203  ls
+  204  ls -l
+  205  ls
+  206  ls -a
+  207  ls -la
+  208  history
+  209  history > history_20180917.txt
