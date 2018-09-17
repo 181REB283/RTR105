@@ -27,7 +27,7 @@ echo **$** 0- ar kuru linuxa dialektu mes stradajam
 **echo** "teksts" > mape-parnest  
 **chmod**-uzlikt tiesibas  
 **nano**-teksta redaktors(ieksa spiest ctrl+x)  
-**cp** kopesana :suspect:  
+**cp** kopesana :suspect: :eyes:  
 **mv**-parvietosana(mv kads kur/)  
 **mv kads ../ jaunais nosaukums**-parvietosana ar parsauksanu  
 *mape* **shift+8** visus failus kuri sakas ar tam burtam  
