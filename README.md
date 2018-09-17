@@ -17,3 +17,18 @@ ls-la objekti un faili
 echo **$** 0- ar kuru linuxa dialektu mes stradajam  
 *sh* - samainit linuxa dialektu  
 **exit**- iziet no sh dialekta uz bash dialektu :recycle:  
+**cd** parvietosana  
+**mkdir** creata folder  
+**rmdir** remove folder  
+**echo** rakstit tekstu  
+**man komanda** atrast komandus  
+**cat + txt file** lasit tekstu faila  
+**echo** "teksts" >> mape  
+**echo** "teksts" > mape-parnest  
+**chmod**-uzlikt tiesibas  
+**nano**-teksta redaktors(ieksa spiest ctrl+x)  
+**cp** kopesana :suspect:  
+**mv**-parvietosana(mv kads kur/)  
+**mv kads ../ jaunais nosaukums**-parvietosana ar parsauksanu  
+*mape* **shift+8** visus failus kuri sakas ar tam burtam  
+**mv** Music/*txt./** -(piemers):bomb:  
