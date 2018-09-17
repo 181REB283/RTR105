@@ -193,17 +193,177 @@
   193  lsb_release -a
   194  firefox
   195  exit
-  196  echo $0
-  197  whoami
-  198  who
-  199  whoami
-  200  who
-  201  pwd
-  202  man pwd
-  203  ls
-  204  ls -l
-  205  ls
-  206  ls -a
-  207  ls -la
-  208  history
-  209  history > history_20180917.txt
+  196  firefox&
+  197  who
+  198  un
+  199  uname
+  200  man uname
+  201  uname -a
+  202  echo $0
+  203  sh
+  204  bash
+  205  echo $0
+  206  whoami
+  207  who
+  208  whoami
+  209  who
+  210  pwd
+  211  man pwd
+  212  ls
+  213  ls -l
+  214  ls
+  215  ls -a
+  216  history
+  217  history > history_20180917.txt
+  218  cat
+  219  ls -la
+  220  man pwd
+  221  echo $0
+  222  sh
+  223  who
+  224  whoami
+  225  pwd
+  226  ls
+  227  ls -l
+  228  cd Music/
+  229  pwd
+  230  ls
+  231  ls -l
+  232  ls -a
+  233  ls -la
+  234  pwd
+  235  cd .
+  236  pwd
+  237  cd ..
+  238  pwd
+  239  ls -a
+  240  pwd
+  241  cd .
+  242  cd ..
+  243  pwd
+  244  ls -la
+  245  cd .
+  246  cd ..
+  247  pwd
+  248  ls -la
+  249  cd .
+  250  pwd
+  251  cd ..
+  252  pwd
+  253  cd user
+  254  cd /home/user
+  255  pwd
+  256  cd ..
+  257  pwd
+  258  cd ~
+  259  pwd
+  260  cd
+  261  pwd
+  262  cd ../../
+  263  pwd
+  264  cd
+  265  pwd
+  266  cd ../../
+  267  pwd
+  268  cd home/user/
+  269  pwd
+  270  mkdir mana mape
+  271  /ls
+  272  ls
+  273  cd mana/
+  274  pwd
+  275  ls -la
+  276  ls -a
+  277  pwd
+  278  cd mape
+  279  cd /mape
+  280  pwd
+  281  cd
+  282  cd mana/
+  283  cd ..
+  284  pwd
+  285  cd mana/
+  286  ls -la
+  287  cd ..
+  288  pwd
+  289  emdir mana/
+  290  rmdir mana/
+  291  ls -l
+  292  rmdir mape
+  293  ls -l
+  294  mkdir ManaMape
+  295  ls -l
+  296  cd ManaMape/
+  297  mkdir ManaPapildusMape
+  298  cd ManaPapildusMape/
+  299  pwd
+  300  cd
+  301  pwd
+  302  ls -l
+  303  rmdir ManaMape/
+  304  man rmdir
+  305  man rm
+  306  rm -r ManaMape/
+  307  ls -l
+  308  man echo
+  309  echo "Teksts"
+  310  "tekst
+tekst
+"
+  311  echo "Teksts"\nTeksts\nTeksts"
+"
+  312  echo "Teksts\nTeksts\nTeksts"
+  313  man echo
+  314  echo -e "Teksts\nTeksts\nTeksts"
+  315  echo "Teksts" > failsl.txt
+  316  ls -l
+  317  cat failsl.txt 
+  318  cd /
+  319  pwd
+  320  ls -l
+  321  cd bin/
+  322  cat sleep 
+  323  cd 
+  324  echo "Cits teksts" > failsl.txt 
+  325  ls -l
+  326  cat failsl.txt 
+  327* echo " teksts" >> failsl.txt 
+  328  cat failsl.txt 
+  329  echo "Cits teksts" >> failsl.txt 
+  330  cat failsl.txt 
+  331  ls-l
+  332  ls -l
+  333  cat failsl.txt 
+  334  cd
+  335  pwd
+  336  chmod 500 failsl.txt 
+  337  ls -l
+  338  echo "Pavisam Cits teksts" >> failsl.txt 
+  339  echo "Pavisam Cits teksts" >> ../failsl.txt 
+  340  nano
+  341  ls -l
+  342  cat failsl2.txt 
+  343  ls -l
+  344  cp failsl2.txt fails3.txt
+  345  ls -l
+  346  mv fails3.txt /Music
+  347  mv fails*.txt Music/
+  348  ls -l
+  349  cd Music/
+  350  pwd
+  351  ls -l
+  352  mv fails3.txt fails4.txt
+  353  cd
+  354  ls -l
+  355  cd Music/
+  356  ls -l
+  357  mv failsl2.txt  ../fails101.txt
+  358  ls -l
+  359  cd
+  360  ls -l
+  361  mv Music/*.txt ./
+  362  ls
+  363  rm fails*.txt
+  364  ls
+  365  history
+  366  history > history_20180917.txt 
