@@ -32,3 +32,7 @@ echo **$** 0- ar kuru linuxa dialektu mes stradajam
 **mv kads ../ jaunais nosaukums**-parvietosana ar parsauksanu  
 *mape* **shift+8** visus failus kuri sakas ar tam burtam  
 **mv** Music/*txt./** -(piemers):bomb:  
+**echo -e"cp v ls"**  
+cp  
+v  
+ls  
