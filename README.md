@@ -1,4 +1,4 @@
-# RTR105
+# RTR105 :squirrel:
 Datormācības kursa elektroniskā kladē  
 **whoami** kas es esmu  
 ~~ctrl+alt+y~~ **ctrl+alt+t** ieet konsole  
@@ -27,7 +27,7 @@ echo **$** 0- ar kuru linuxa dialektu mes stradajam
 **echo** "teksts" > mape-parnest  
 **chmod**-uzlikt tiesibas  
 **nano**-teksta redaktors(ieksa spiest ctrl+x)  
-**cp** kopesana :suspect: :eyes:  
+**cp** kopesana :suspect::passport_control::oncoming_police_car:  
 **mv**-parvietosana(mv kads kur/)  
 **mv kads ../ jaunais nosaukums**-parvietosana ar parsauksanu  
 *mape* **shift+8** visus failus kuri sakas ar tam burtam  
