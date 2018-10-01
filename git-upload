@@ -1,0 +1,10 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email romka1999@inbox.lv
+git add .
+#git commit -m "20181001_09_55"
+git commit -m $1
+git push origin master
+fi
+
