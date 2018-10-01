@@ -36,3 +36,15 @@ echo **$** 0- ar kuru linuxa dialektu mes stradajam
 cp  
 v  
 ls  
+cat/bin/ls  
+#!/bin/bach  
+./faila nosaukums  
+~~~/nosaukums  
+chmod 764(vai kads ir) fails  
+echo $PATH  
+ls -l /bin | grep ls  
+= -PIESKIRSANAS OPERACIJA  
+PATH=$PATH:~  
+rm -r Mape/  
+git clone https://github.com/181REB283/RTR105  
+nano mans_skripts.sh  
