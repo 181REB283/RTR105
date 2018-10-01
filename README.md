@@ -48,3 +48,4 @@ PATH=$PATH:~
 rm -r Mape/  
 git clone https://github.com/181REB283/RTR105  
 nano mans_skripts.sh  
+git pull  
