@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  pwd
+    5  ls -l
+    6  idle &
+    7  nano text321.txt
+    8  ls -l
+    9  git clone https://github.com/181REB283/RTR105
+   10  nano mbox.txt
+   11  nano mbox-short.txt
+   12  history>history_20181112.txt
